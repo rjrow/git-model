@@ -1,0 +1,12 @@
+
+--- Job mtrmcp_inc.gms Start 07/21/14 12:34:47 24.1.2 r40979 WEX-WEI x86_64/MS Windows
+GAMS 24.1.2   Copyright (C) 1987-2013 GAMS Development. All rights reserved
+Licensee: Timothy J. James                               G131205:1707AV-WIN
+          Arizona State University, Seidman Research Institute      DC10593
+          License for teaching and research at degree granting institutions
+--- Starting compilation
+--- mtrmcp_inc.gms(148) 3 Mb
+--- Starting execution: elapsed 0:00:00.003
+--- mtrmcp_inc.gms(119) 4 Mb
+*** Status: Normal completion
+--- Job mtrmcp_inc.gms Stop 07/21/14 12:34:47 elapsed 0:00:00.006

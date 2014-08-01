@@ -1,0 +1,279 @@
+
+--- Job report.gms Start 07/14/14 13:57:13 24.1.2 r40979 WEX-WEI x86_64/MS Windows
+GAMS 24.1.2   Copyright (C) 1987-2013 GAMS Development. All rights reserved
+Licensee: Timothy J. James                               G131205:1707AV-WIN
+          Arizona State University, Seidman Research Institute      DC10593
+          License for teaching and research at degree granting institutions
+--- Starting compilation
+--- report.gms(16) 3 Mb 2 Errors
+*** Error 641 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol in set.ident or #.ident
+*** Error 641 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol in set.ident or #.ident
+--- report.gms(17) 3 Mb 4 Errors
+*** Error 641 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol in set.ident or #.ident
+*** Error 641 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol in set.ident or #.ident
+--- report.gms(27) 3 Mb 5 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(28) 3 Mb 6 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(29) 3 Mb 7 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(43) 3 Mb 9 Errors
+*** Error 119 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Number (primary) expected
+*** Error   2 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Identifier expected
+--- report.gms(44) 3 Mb 11 Errors
+*** Error 119 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Number (primary) expected
+*** Error   2 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Identifier expected
+--- report.gms(45) 3 Mb 14 Errors
+*** Error 119 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Number (primary) expected
+*** Error   2 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Identifier expected
+*** Error  97 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Explanatory text can not start with '$', '=', or '..'
+      (-or- check for missing ';' on previous line)
+--- report.gms(46) 3 Mb 17 Errors
+*** Error 119 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Number (primary) expected
+*** Error   2 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Identifier expected
+*** Error  97 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Explanatory text can not start with '$', '=', or '..'
+      (-or- check for missing ';' on previous line)
+--- report.gms(47) 3 Mb 19 Errors
+*** Error 119 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Number (primary) expected
+*** Error   2 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Identifier expected
+--- report.gms(48) 3 Mb 21 Errors
+*** Error 119 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Number (primary) expected
+*** Error   2 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Identifier expected
+--- report.gms(53) 3 Mb 24 Errors
+*** Error 119 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Number (primary) expected
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+*** Error 409 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- report.gms(54) 3 Mb 27 Errors
+*** Error 119 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Number (primary) expected
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+*** Error 409 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- report.gms(55) 3 Mb 30 Errors
+*** Error 119 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Number (primary) expected
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+*** Error 409 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- report.gms(56) 3 Mb 33 Errors
+*** Error 119 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Number (primary) expected
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+*** Error 409 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- report.gms(57) 3 Mb 36 Errors
+*** Error 119 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Number (primary) expected
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+*** Error 409 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- report.gms(71) 3 Mb 39 Errors
+*** Error 123 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Set has not been initialized and the dimension is unknown
+*** Error 123 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Set has not been initialized and the dimension is unknown
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(72) 3 Mb 40 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(73) 3 Mb 41 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(75) 3 Mb 42 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(76) 3 Mb 43 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(77) 3 Mb 44 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(81) 3 Mb 45 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(82) 3 Mb 46 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(84) 3 Mb 47 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(85) 3 Mb 48 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(89) 3 Mb 51 Errors
+*** Error 120 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown identifier entered as set
+*** Error 340 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    A label/element with the same name exist. You may have forgotten
+       to quote a label/element reference. For example,
+       set i / a,b,c /; parameter x(i); x('a') = 10;
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(90) 3 Mb 52 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(91) 3 Mb 53 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(93) 3 Mb 54 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(94) 3 Mb 55 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(95) 3 Mb 56 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(100) 3 Mb 57 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(104) 3 Mb 58 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(105) 3 Mb 59 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(109) 3 Mb 62 Errors
+*** Error 120 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown identifier entered as set
+*** Error 340 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    A label/element with the same name exist. You may have forgotten
+       to quote a label/element reference. For example,
+       set i / a,b,c /; parameter x(i); x('a') = 10;
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(110) 3 Mb 63 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(116) 3 Mb 64 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(117) 3 Mb 65 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(121) 3 Mb 67 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(122) 3 Mb 69 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(133) 3 Mb 71 Errors
+*** Error 123 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Set has not been initialized and the dimension is unknown
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(134) 3 Mb 76 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(135) 3 Mb 77 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(139) 3 Mb 79 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(152) 3 Mb 80 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(163) 3 Mb 84 Errors
+*** Error 120 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown identifier entered as set
+*** Error 340 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    A label/element with the same name exist. You may have forgotten
+       to quote a label/element reference. For example,
+       set i / a,b,c /; parameter x(i); x('a') = 10;
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(164) 3 Mb 85 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(165) 3 Mb 86 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(166) 3 Mb 87 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(167) 3 Mb 88 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(168) 3 Mb 89 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(169) 3 Mb 90 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(170) 3 Mb 91 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(171) 3 Mb 92 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(172) 3 Mb 93 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(173) 3 Mb 94 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(183) 3 Mb 96 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(185) 3 Mb 98 Errors
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+*** Error 140 in C:\Users\rjrow.ASURITE\Desktop\model production\model\report.gms
+    Unknown symbol
+--- report.gms(397) 3 Mb 98 Errors
+*** Status: Compilation error(s)
+--- Job report.gms Stop 07/14/14 13:57:13 elapsed 0:00:00.226
+Exit code = 2

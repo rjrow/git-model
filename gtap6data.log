@@ -1,0 +1,14 @@
+
+--- Job gtap6data.gms Start 07/21/14 12:35:28 24.1.2 r40979 WEX-WEI x86_64/MS Windows
+GAMS 24.1.2   Copyright (C) 1987-2013 GAMS Development. All rights reserved
+Licensee: Timothy J. James                               G131205:1707AV-WIN
+          Arizona State University, Seidman Research Institute      DC10593
+          License for teaching and research at degree granting institutions
+--- Starting compilation
+--- gtap6data.gms(24) 2 Mb
+--- GDXin=C:\Users\rjrow.ASURITE\Desktop\model production\data\main_data_out.gdx
+--- gtap6data.gms(238) 4 Mb
+--- Starting execution: elapsed 0:00:00.011
+--- gtap6data.gms(238) 7 Mb
+*** Status: Normal completion
+--- Job gtap6data.gms Stop 07/21/14 12:35:29 elapsed 0:00:00.086
