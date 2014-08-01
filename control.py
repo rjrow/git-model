@@ -78,7 +78,7 @@ def main():
 
 	cge_functions		 = STAP(string_main_cge, "cge_functions")
 	db_functions		 = STAP(string_db, "db_functions")
-	regioanl_functions   = STAP(string_regional, "regioanl_functions")
+	regional_functions   = STAP(string_regional, "regioanl_functions")
 	
 
 	#####  perturb_data (file.name, slots, value, prm.name) #####
